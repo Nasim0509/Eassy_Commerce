@@ -1,0 +1,17 @@
+
+#Eassy Commerce .com
+
+1.Use Bootstrap
+2.Have a beautyfull navgition with a banner
+2.Use product cards.
+3.Offer option .
+4.Client review
+5.Top Brand option.
+6.Newsletter
+7.Responsive
+8.Futter
+9.templete links:-
+	-https://bestwebcreator.com/shopwise/demo/index.html
+	-https://p.w3layouts.com/demos/sep-2016/15-09-2016/fashion_club/web/
+	-https://demo.themefisher.com/eventre/
+10.Deadline:-3 days.
